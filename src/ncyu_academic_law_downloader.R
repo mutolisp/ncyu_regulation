@@ -1,6 +1,7 @@
 # if you don't have rvest installed, 
 # please install it via install.packages("rvest")
 library(rvest)
+library(curl)
 
 prefix <- 'http://www.ncyu.edu.tw'
 acaLawPage <- 'http://www.ncyu.edu.tw/academic/law_list.aspx?pages='
