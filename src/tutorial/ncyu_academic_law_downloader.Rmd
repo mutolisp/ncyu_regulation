@@ -1,6 +1,7 @@
 ---
 title: "使用 rvest 來爬網路上的資料"
 output:
+  word_document: default
   html_document:
     df_print: paged
 ---
